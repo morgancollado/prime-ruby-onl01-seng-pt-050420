@@ -1,3 +1,4 @@
 def prime?(num)
-  num.all? 
+  num.all? do |number|
+    
 end 
